@@ -6,7 +6,7 @@
 
 - [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/)
-- `json-server` (https://github.com/typicode/json-server)
+- [json-server](https://github.com/typicode/json-server)
 
 ## Instruções para Rodar
 

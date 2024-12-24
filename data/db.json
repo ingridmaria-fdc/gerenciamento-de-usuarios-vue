@@ -1,0 +1,17 @@
+{
+  "users": [],
+  "login": [
+    {
+      "id": "1",
+      "user": "admin",
+      "password": "1234",
+      "type": 1
+    },
+    {
+      "id": "2",
+      "user": "comum",
+      "password": "5678",
+      "type": 2
+    }
+  ]
+}

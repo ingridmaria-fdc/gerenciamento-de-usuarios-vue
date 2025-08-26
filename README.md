@@ -13,25 +13,28 @@
 1. Instale as dependencias:
 
 ```bash
-   yarn install
+yarn install
 ```
 
 ```bash
-   npm install
+npm install
 ```
 
 2.  Inicie o servidor:
+```bash
+npm install -g json-server
+```
 
 ```bash
-   json-server --watch data/db.json --port 3001
+json-server --watch data/db.json --port 3001
 ```
 
 3. Inicie a aplicação:
 
 ```bash
-  yarn dev
+yarn dev
 ```
 
 ```bash
-  npm run dev
+npm run dev
 ```

@@ -17,7 +17,7 @@
 ```
 
 ```bash
-  npm install
+   npm install
 ```
 
 2.  Inicie o servidor:
